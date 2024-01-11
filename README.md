@@ -1,3 +1,4 @@
 # PR
 Pattern recognition
-\nfeature extraction in pattern recognition
+
+feature extraction in pattern recognition
